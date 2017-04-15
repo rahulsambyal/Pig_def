@@ -1,0 +1,24 @@
+1. Why Map-reduce program is needed in Pig Programming?
+A: Map-reduce program is needed in Pig Programming because in shell we are using pig but in backend when we do dump or store then it is always map reduce program which runs.
+
+2. What are advantages of pig over MapReduce?
+A: Pig is less time consuming and easy to write.
+
+3. What is pig engine and what is its importance?
+A: Apache Pig has a component known as Pig Engine that accepts the Pig Latin scripts as input and converts those scripts into MapReduce jobs.
+
+4. What are the modes of Pig execution?
+A: There are two Modes
+	(i) Local mode
+	(ii) HDFS Mode
+
+5. What is grunt shell in Pig? 
+A: The Grunt shell of Apache Pig is mainly used to write Pig Latin scripts.
+ 
+6. What are the features of Pig Latin language?
+A: Load, Store, Filter, Dump, Generate, Foreach, Group, Order by, Distinct, Join, Limit, Sample, Parallel, UDFs.
+
+7. Is Pig latin commands case sensitive?
+A: Yes
+
+8. What is a data flow language?A: dataflow programming is a programming paradigm that models a program as a directed graph of the data flowing between operations, thus implementing dataflow principles and architecture.
